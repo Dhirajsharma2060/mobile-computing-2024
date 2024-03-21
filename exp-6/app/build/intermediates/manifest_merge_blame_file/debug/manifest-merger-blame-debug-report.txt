@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shashank.platform.furnitureecommerceappui"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:6:5-50:19
+12        android:allowBackup="true"
+12-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\DHIRAJ\.gradle\caches\transforms-3\4494bece03a6b44b788ed162a8727dab\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:10:9-54
+18        android:supportsRtl="true"
+18-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:11:9-35
+19        android:theme="@style/AppTheme" >
+19-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:12:9-40
+20        <activity
+20-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:14:9-19:66
+21            android:name="com.shashank.platform.furnitureecommerceappui.Main5Activity"
+21-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:15:13-42
+22            android:label=""
+22-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:16:13-29
+23            android:screenOrientation="portrait"
+23-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:17:13-49
+24            android:theme="@style/MyAppTheme"
+24-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:18:13-46
+25            android:windowSoftInputMode="stateHidden|adjustPan" />
+25-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:19:13-64
+26        <activity
+26-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:20:9-25:67
+27            android:name="com.shashank.platform.furnitureecommerceappui.Main4Activity"
+27-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:21:13-42
+28            android:label=""
+28-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:22:13-29
+29            android:screenOrientation="portrait"
+29-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:23:13-49
+30            android:theme="@style/AppTheme.NoActionBar"
+30-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:24:13-56
+31            android:windowSoftInputMode="stateHidden|adjustPan" />
+31-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:25:13-64
+32        <activity
+32-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:26:9-31:67
+33            android:name="com.shashank.platform.furnitureecommerceappui.Main3Activity"
+33-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:27:13-42
+34            android:label=""
+34-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:28:13-29
+35            android:screenOrientation="portrait"
+35-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:29:13-49
+36            android:theme="@style/AppTheme.NoActionBar"
+36-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:30:13-56
+37            android:windowSoftInputMode="stateHidden|adjustPan" />
+37-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:31:13-64
+38        <activity
+38-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:32:9-37:67
+39            android:name="com.shashank.platform.furnitureecommerceappui.Main2Activity"
+39-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:33:13-42
+40            android:label=""
+40-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:34:13-29
+41            android:screenOrientation="portrait"
+41-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:35:13-49
+42            android:theme="@style/AppTheme.NoActionBar"
+42-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:36:13-56
+43            android:windowSoftInputMode="stateHidden|adjustPan" />
+43-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:37:13-64
+44        <activity
+44-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:38:9-49:20
+45            android:name="com.shashank.platform.furnitureecommerceappui.MainActivity"
+45-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:39:13-41
+46            android:label=""
+46-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:40:13-29
+47            android:screenOrientation="portrait"
+47-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:41:13-49
+48            android:theme="@style/MyAppTheme"
+48-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:42:13-46
+49            android:windowSoftInputMode="stateHidden|adjustPan" >
+49-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:43:13-64
+50            <intent-filter>
+50-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:44:13-48:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:45:17-69
+51-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:45:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:47:17-77
+53-->D:\Mobile-Computing-Experiments-main\Mobile-Computing-Experiments-main\FutureFurnitureUI-Android-master\app\src\main\AndroidManifest.xml:47:27-74
+54            </intent-filter>
+55        </activity>
+56    </application>
+57
+58</manifest>
