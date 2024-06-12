@@ -1,0 +1,49 @@
+<!--
+  ~ Copyright 2021 Vipin KT
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="ri_label_number_of_records">Total %d Records found.</string>
+
+    <string name="ri_action_refresh">Refresh</string>
+    <string name="ri_action_add_row">Add Row</string>
+    <string name="ri_action_delete_table">Delete Table</string>
+    <string name="ri_action_drop_table">Drop Table</string>
+    <string name="ri_action_export">Export Table</string>
+    <string name="ri_action_custom_query">Custom Query</string>
+    <string name="ri_action_submit">Submit</string>
+    <string name="ri_action_update">Update</string>
+    <string name="ri_action_delete">Delete</string>
+    <string name="ri_action_add">Add</string>
+    <string name="ri_action_drop">Drop</string>
+
+    <string name="ri_title_update_row">Update Row</string>
+    <string name="ri_title_add_row">Add Row</string>
+    <string name="ri_title_delete_row">Delete Row</string>
+    <string name="ri_title_delete_table">Delete Table</string>
+    <string name="ri_title_drop_table">Drop Table</string>
+
+    <string name="ri_message_delete_row">Operation will clear this row from \"%s\"</string>
+    <string name="ri_message_delete_table">Operation will clear all the data in \"%s\"</string>
+    <string name="ri_message_drop_table">Operation will remove \"%s\" from database</string>
+    <string name="ri_message_operation_success">Operation completed successfully</string>
+
+    <string name="ri_error_operation_failed">Operation failed : %s</string>
+    <string name="ri_error_no_db_class">No database class passed in the launch Intent.</string>
+    <string name="ri_error_no_db_name">No database name passed in the launch Intent.</string>
+    <string name="ri_error_no_data_passed">No data passed in the launch Intent.</string>
+
+    <string name="ri_hint_enter_query">Enter query</string>
+</resources>
